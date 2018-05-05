@@ -1,0 +1,33 @@
+{
+  "name": "imovie",
+  "version": "1.0.0",
+  "description": "Imooc Movie",
+  "main": "app.js",
+  "dependencies": {
+    "basic-auth": "^2.0.0",
+    "bcryptjs": "^2.4.3",
+    "connect-mongo": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "moment": "^2.19.1",
+    "mongoose": "^4.13.0",
+    "morgan": "^1.9.0",
+    "node-gyp": "^3.6.2",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4",
+    "serve-static": "^1.13.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "lwj",
+  "license": "ISC",
+  "homepage": "https://github.com/lwj"
+}
